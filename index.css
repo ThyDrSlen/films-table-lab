@@ -1,6 +1,23 @@
+ table{
+     width:55%;
+     margin:auto;
+     
+     
+ }
+ 
+ 
  td {
   border: 1px solid;
 }
 .year{
  width:35px;
 }
+
+.info{
+    column-span:2;
+}
+
+.synopsis{
+    column-span:2;
+}
+
